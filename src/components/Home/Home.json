@@ -1,0 +1,31 @@
+{
+    "resumo": "Amante das matérias exatas, Com 18 anos, assim que entrou para a faculdade de engenharia também teve a oportunidade única de ser professor de Física em um colégio público de sua cidade. No ano seguinte entrou de cabeça em lecionar através das aulas particulares, enquanto levava a faculdade em segundo plano. Em 2018 após ter certeza que a Engenharia Civil nunca iria lhe satisfazer como sonho profissional, largou a faculdade e começou a estudar para concursos, sendo aprovado como Guarda Municipal na cidade de Caruaru. Em 2020, devido a trágica pandemia mundial de Covid 19, parou de dar aulas particulares, e decidiu reativar seu sonho de adentrar na área das tecnologias, fazendo graduação EAD em Análise e Desenvolvimento de Sistemas, finalizado em 2022. No momento é aluno do Comeia Academy 2023, aumejando ao final do curso, se tornar profissional capacitado para a área.",
+    "academico": [
+        {
+            "tempo": "2007 - 2009",
+            "informacao": "Ensino Médio - Colégio Nossa Senhora das Dores"
+        },
+        {
+            "tempo": "2010 - 2018",
+            "informacao": "Engenharia Civil - UFPE - Curso não finalizado"
+        },
+        {
+            "tempo": "2020 - 2022",
+            "informacao": "Análise e Desenvolvimento de Sistemas - ESTÁCIO"
+        }
+    ],
+    "profissional": [
+        {
+            "tempo": "2010",
+            "informacao": "Professor de Física - Ensino Médio - Escola Eurico Queiroz"
+        },
+        {
+            "tempo": "2011 - 2020",
+            "informacao": "Professor Particular de Exatas"
+        },
+        {
+            "tempo": "2019 - Presente",
+            "informacao": "Servidor Público - Caruaru - Guarda Municipal"
+        }
+    ]
+}
