@@ -1,5 +1,5 @@
 import React from "react";
-import "./portfolio.css"
+import "./Portfolio.css"
 
 import ItemPortifolio from "../itemPortfolio/itemPortifolio";
 import portfolio from "./Portfolio.json";
